@@ -1,5 +1,4 @@
-#TERMINAT | FUNCTIONEAZA DOAR CU NUMERE | NIVEL DE CLASA A IX -A
-
+#TERMINAT | FUNCTIONEAZA DOAR CU NUMERE |
 
 puts "-------------------------------------------"
 puts " Alege ti formula pe care vrei sa o aplici"
